@@ -12,7 +12,7 @@
 Для решения данной проблемы, я использую [Binance APi](https://binance-docs.github.io/apidocs/#change-log) для получения котировок ETHUSDT и BTCUSDT. Для расчёта корреляции я исполбзую библиотеку [numpy](https://pypi.org/project/numpy). 
 
 ## Пример работы программы
-![Example](https://ibb.co/2YVZW8n)
+![Example](https://i.ibb.co/VpnwJHj/image.png)
 
 ### Installation guide
 `git clone https://github.com/NoneNameDeveloper/CryptoTestCase`
