@@ -16,6 +16,8 @@
 
 ### Installation guide
 `git clone https://github.com/NoneNameDeveloper/CryptoTestCase`
+
 `pip3 install requirements.txt`
+
 `python3 main.py`
 
